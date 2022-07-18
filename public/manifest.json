@@ -1,5 +1,9 @@
 {
     "name": "Hiro's Budget Tracker",
     "short_name": "budget-tracker",
-    "icons": []
+    "icons": [],
+    "theme_color": "#ffffff",
+    "background_color": "#01579b",
+    "start_url": "../index.html",
+    "display": "standalone"
 }
